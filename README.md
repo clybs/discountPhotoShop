@@ -65,7 +65,8 @@ $ C 20 4 L 1 2 6 2 L 6 3 6 4 R 14 1 18 3 B 10 3 o Q
 
 Or just draw a star
 ```sh
-$ go run main.go C 27 23 L 1 23 13 1 L 13 1 25 23 L 25 23 1 8 L 1 8 25 8 L 26 8 1 23 Q
+$ go run main.go 
+$ C 27 23 L 1 23 13 1 L 13 1 25 23 L 25 23 1 8 L 1 8 25 8 L 26 8 1 23 Q
 ```
 
 ### Tests
